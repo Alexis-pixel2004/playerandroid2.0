@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Variante nocturna del tema de ventana. Usa el mismo nombre que en values/
+        (Theme.HiFiPlayer) pero con el padre oscuro de la plataforma, de modo que el
+        fondo de ventana y el splash de arranque sigan el modo oscuro del sistema y no
+        se produzca un destello claro al iniciar la aplicación.
+
+        No se define ninguna paleta propia y no se fuerza el modo: los colores reales
+        los decide el tema de Compose (Material 3 con Dynamic Color) y el modo claro u
+        oscuro continúa dependiendo de la configuración del sistema.
+    -->
+    <style name="Theme.HiFiPlayer" parent="android:Theme.Material.NoActionBar" />
+</resources>

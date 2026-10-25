@@ -1,0 +1,48 @@
+package com.alexis.hifiplayer.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// HiFiPlayer brand color
+val HifiPrimary = Color(0xFF02BCC7)
+
+// Dark theme (AMOLED)
+val HifiPrimaryDark = Color(0xFF34D6E2)
+val HifiOnPrimaryDark = Color(0xFF00363A)
+val HifiPrimaryContainerDark = Color(0xFF004F54)
+val HifiOnPrimaryContainerDark = Color(0xFF9DF0F9)
+val HifiSecondaryDark = Color(0xFFB1CBD0)
+val HifiOnSecondaryDark = Color(0xFF1C3437)
+val HifiSecondaryContainerDark = Color(0xFF334B4F)
+val HifiOnSecondaryContainerDark = Color(0xFFCCE7EB)
+val HifiTertiaryDark = Color(0xFFB9C6EA)
+val HifiOnTertiaryDark = Color(0xFF23304D)
+val HifiTertiaryContainerDark = Color(0xFF3A4664)
+val HifiOnTertiaryContainerDark = Color(0xFFD8E2FF)
+val HifiBackgroundDark = Color(0xFF000000)
+val HifiOnBackgroundDark = Color(0xFFDEE3E4)
+val HifiSurfaceDark = Color(0xFF050506)
+val HifiOnSurfaceDark = Color(0xFFDEE3E4)
+val HifiSurfaceVariantDark = Color(0xFF0F1112)
+val HifiOnSurfaceVariantDark = Color(0xFFBFC8CA)
+val HifiOutlineDark = Color(0xFF899294)
+
+// Light theme
+val HifiPrimaryLight = Color(0xFF005F65)
+val HifiOnPrimaryLight = Color(0xFFFFFFFF)
+val HifiPrimaryContainerLight = Color(0xFF9DF0F9)
+val HifiOnPrimaryContainerLight = Color(0xFF002022)
+val HifiSecondaryLight = Color(0xFF4A6266)
+val HifiOnSecondaryLight = Color(0xFFFFFFFF)
+val HifiSecondaryContainerLight = Color(0xFFCCE7EB)
+val HifiOnSecondaryContainerLight = Color(0xFF051F22)
+val HifiTertiaryLight = Color(0xFF515E7D)
+val HifiOnTertiaryLight = Color(0xFFFFFFFF)
+val HifiTertiaryContainerLight = Color(0xFFD8E2FF)
+val HifiOnTertiaryContainerLight = Color(0xFF0C1B36)
+val HifiBackgroundLight = Color(0xFFFAFDFD)
+val HifiOnBackgroundLight = Color(0xFF191C1C)
+val HifiSurfaceLight = Color(0xFFFAFDFD)
+val HifiOnSurfaceLight = Color(0xFF191C1C)
+val HifiSurfaceVariantLight = Color(0xFFF0F4F5)
+val HifiOnSurfaceVariantLight = Color(0xFF3F4849)
+val HifiOutlineLight = Color(0xFF6F797A)
